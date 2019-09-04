@@ -1,7 +1,7 @@
 # Detecting malaria with deep learning
-## <i>P. Falciparum detection in thin blood smear images</i>
+## <i> P. Falciparum detection in thin blood smear images </i>
 </br>
-## Motivation
+## Motivation </br>
 Malaria is a deadly, infectious, mosquito-borne disease caused by Plasmodium parasites that are transmitted by the bites of infected female Anopheles mosquitoes. There are five parasites that cause malaria, but two types—P. falciparum and P. vivax—cause the majority of the cases.
 </br>
 The World Health Organization's (WHO) malaria facts indicate that nearly half the world's population is at risk from malaria, and there are over 200 million malaria cases and approximately 400,000 deaths due to malaria every year. This is a motivatation to make malaria detection and diagnosis fast, easy, and effective.
