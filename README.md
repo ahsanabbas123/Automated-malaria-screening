@@ -15,7 +15,8 @@ Automated malaria detection using deep learning models like CNNs could be very e
 </br></br>
 ## Dataset </br>
 The data for our analysis comes from researchers at the Lister Hill National Center for Biomedical Communications (LHNCBC), part of the National Library of Medicine (NLM), who have carefully collected and annotated the publicly available dataset of healthy and infected blood smear images. These researchers have developed a mobile application for malaria detection that runs on a standard Android smartphone attached to a conventional light microscope. They used Giemsa-stained thin blood smear slides from 150 P. falciparum-infected and 50 healthy patients, collected and photographed at Chittagong Medical College Hospital, Bangladesh. The smartphone's built-in camera acquired images of slides for each microscopic field of view. The images were manually annotated by an expert slide reader at the Mahidol-Oxford Tropical Medicine Research Unit in Bangkok, Thailand.
-
-
+</br></br>
+## Model
+For building this model, TensorFlow is used to load up the VGG-19 model and freeze the convolution blocks so I can use them as an image feature extractor, then plug in dense layers at the end to perform the classification task.
 
 
