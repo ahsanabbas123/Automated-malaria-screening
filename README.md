@@ -1,5 +1,5 @@
 # Detecting malaria with deep learning
-## <i> P. Falciparum detection in thin blood smear images </i>
+<i> P. Falciparum detection in thin blood smear images </i>
 </br>
 ## Motivation </br>
 Malaria is a deadly, infectious, mosquito-borne disease caused by Plasmodium parasites that are transmitted by the bites of infected female Anopheles mosquitoes. There are five parasites that cause malaria, but two types—P. falciparum and P. vivax—cause the majority of the cases.
@@ -12,7 +12,7 @@ Convolution layers learn spatial hierarchical patterns from data, which are also
 </br>
 Automated malaria detection using deep learning models like CNNs could be very effective, cheap, and scalable, especially with the advent of transfer learning and pre-trained models that work quite well, even with constraints like less data.
 </br>
-## Dataset
+## Dataset </br>
 The data for our analysis comes from researchers at the Lister Hill National Center for Biomedical Communications (LHNCBC), part of the National Library of Medicine (NLM), who have carefully collected and annotated the publicly available dataset of healthy and infected blood smear images. These researchers have developed a mobile application for malaria detection that runs on a standard Android smartphone attached to a conventional light microscope. They used Giemsa-stained thin blood smear slides from 150 P. falciparum-infected and 50 healthy patients, collected and photographed at Chittagong Medical College Hospital, Bangladesh. The smartphone's built-in camera acquired images of slides for each microscopic field of view. The images were manually annotated by an expert slide reader at the Mahidol-Oxford Tropical Medicine Research Unit in Bangkok, Thailand.
 
 
